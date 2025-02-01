@@ -1,6 +1,6 @@
 // Contoh: Alert saat halaman dimuat
 window.onload = function() {
-    alert("Selamat datang di website saya!");
+    alert("Haii sayang, Ciee udah 17 aja nihh");
 };
 
 // Contoh: Menambahkan efek klik ke tombol (jika ada)
