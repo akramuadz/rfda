@@ -62,3 +62,11 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+.profile-img {
+    max-width: 100%; /* Gambar tidak melebihi lebar container */
+    height: auto; /* Menjaga aspek rasio gambar */
+    border-radius: 10px; /* Membuat sudut gambar melengkung */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Menambahkan bayangan */
+    margin-top: 1rem; /* Jarak dari teks di atas */
+}
